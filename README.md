@@ -17,3 +17,9 @@ Since all of these conversations, as well as all the excerpts mentioned about th
 `Mistakes and Corrections`
 
 To err is human, and nobody likes a perfect person! If you come across any mistakes or if you have questions, feel free to raise an issue or submit a pull request. Your contributions to improving the content are highly appreciated.
+
+`License`
+
+This project is licensed under the Apache License, Version 2.0.
+
+For detailed information, please refer to the full text of the Apache License.
