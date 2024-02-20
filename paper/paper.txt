@@ -1,0 +1,41 @@
+First stage: Identification
+
+This stage involves an analysis of the knowledge gap within the organization. In simpler terms, it examines which aspects of knowledge, crucial for project completion, are lacking and require supplementation.
+
+To measure knowledge, a specific mechanism is needed. The measurement model proposed in this research is built upon the fundamental concept of the breadth and depth of knowledge, originally developed by the researcher and his colleagues (26).
+
+The breadth of knowledge pertains to the range of subjects from which knowledge is obtained, and it encompasses understanding different domains of knowledge. Delving into the depth of knowledge reveals the level of specialization; some knowledge holds a general status and can be applied across various contexts, while other knowledge may be highly specialized with significant depth.
+
+In this research, several indicators are employed to calculate both the breadth and depth of knowledge, utilizing a scoring method. This measurement approach serves as the initial step in the "Knowledge" stage. Through this method, one can estimate the available knowledge within the organization and identify knowledge gaps, generating a list of these gaps. This list becomes the input for the second stage.
+
+To implement the current project measurement method in the first stage, it is essential to consider the groups, parameters, and variables outlined in Table 1-3, Table 3-2, and Table 3-3.
+
+Table 1-3 illustrates the groups utilized in the project-based knowledge measurement method:
+Group	Definitions
+𝑘𝑘	A set of knowledge
+𝑎𝑎	A group of projects
+𝑖𝑖′	A set of indicators for measuring the breadth of knowledge
+𝑗𝑗′	A set of indicators for measuring the depth of knowledge
+
+These definitions provide a foundation for understanding the key components essential for employing the existing project measurement method in the initial stage.
+
+Table 2-3 Parameters used in project-based knowledge measurement method
+
+    The value of the index 𝑖𝑖, which is used to measure the breadth of knowledge 𝑘𝑘 in the implementation of project 𝑎𝑎.
+    The value of the index 𝑗𝑗 used to measure the depth of knowledge 𝑘 in the implementation of project 𝑎𝑎 will be considered.
+    It can be utilized.
+
+Table 3-3: Variables used in the project-based knowledge measurement method.
+    
+    The amount of knowledge 𝑘 used in the implementation of project 𝑎.
+    The variable domain of knowledge width value 𝑘.
+    The value of 𝑘 related to project 𝑎.
+    The amount of depth of knowledge 𝑘 used in the implementation of project 𝑎.
+    The variability of the value of the depth of knowledge 𝑘.
+    The total amount of knowledge 𝑘 available in the organization.
+
+First step: Appropriate indicators for measuring the breadth and depth of knowledge are determined.
+
+Second step: The parameters associated with knowledge width, knowledge depth, and their respective variability ranges are calculated using relationships (1-3), (2-3), (3-3), and (4-3).
+
+The values for the width and depth of knowledge will always fall within the range [0, 1].
