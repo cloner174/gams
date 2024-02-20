@@ -1,0 +1,55 @@
+Arian, [2023-09-29 14:08]
+In part 1:
+The cardinality is simply showing how many i's we have, the normalizing factor is the fraction that we consider only to be sure that we have all the possible i's.
+How many width index or 'i' do we have?? One piece
+
+Then we come to solve it, what do we do?
+Let's solve the fraction first
+How many i's do we have? One piece
+What is the maximum WIi'ka?? 9
+How many k do we have 10
+How many a's do we have: 5
+
+So we have fifty fractions, the denominator of all of them is 9, and their faces are according to the table I gave you
+
+Arian, [2023-09-29 14:11]
+That means we have 50 widthka
+That is, the width of each knowledge k in each project a
+
+Arian, [2023-09-29 14:20]
+The second stage is j
+The procedure is exactly the same as the supply, but because we have 2 j, it is a little different
+
+That cardinality is one
+ 
+We solve the fraction for k and a, but since we have two j's, we add the two fractions
+That is, for example, knowledge width 3 in project 4 becomes 1 with j=1 and becomes 10 with j=2
+We have two deficits
+These two must be combined
+
+Arian, [2023-09-29 14:22]
+Finally, we have 50 depthka for the depth of each knowledge in each project
+
+Arian, [2023-09-29 14:23]
+The third and fourth steps are okay, we are creating a range of changes, there is no formula, we just want to get a point
+
+Arian, [2023-09-29 14:31]
+The fifth step is to multiply the k widths by the k depths
+
+Arian, [2023-09-29 14:33]
+In the third step, we get the total knowledge k in the organization
+But since we don't have scientists, we don't have any interference unless we want to get involved, but it's simplified, interference/overlap
+is not
+
+Arian, [2023-09-29 14:42]
+It is for 5 projects
+Calculates the product of the width and depth of each k
+
+Arian, [2023-09-29 14:46]
+The last one is exactly like the previous one
+His story
+It is just collecting all the KIk for each knowledge
+
+Arian, [2023-09-29 14:47]
+This will be our first episode
+There are three more that are easier than this
