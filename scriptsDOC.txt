@@ -1,0 +1,50 @@
+Project Overview
+
+The GAMS project aims to optimize a portfolio of proposed projects based on various criteria, including knowledge requirements, resource availability, and time constraints. The project is divided into four main files: File1.gms, File2.gms, File3.gms, and File4.gms.
+File1.gms - Knowledge and Resource Data
+
+This file initializes the knowledge and resource data required for the project. It defines sets, aliases, tables, and parameters related to knowledge requirements, project activities, and resource constraints.
+Sets
+
+    a: Proposed projects
+    k: Knowledge areas
+    i: Single time period
+    j: Time periods
+
+Parameters
+
+    WI(i, k, a): Resource requirement for implementing project a in time period i
+    DI(j, k, a): Time required to complete activity i for project a in time period j
+    Various parameters for setting priorities and penalties
+
+File2.gms - Normalization and Calculation
+
+This file normalizes the knowledge and resource parameters to facilitate further calculations. It computes the width and depth of knowledge, variability ranges, and knowledge importance.
+File3.gms - Portfolio Selection
+
+This file determines the optimal portfolio selection based on the normalized data, incorporating width and depth of knowledge, variability ranges, and other constraints.
+Parameters
+
+    w(a): Binary variable for project selection
+    x(i, j): Binary variable for activity start
+    y(i, j, s): Binary variable for activity occurrence under scenario s
+
+Equations
+
+    ObjectiveFunction: Objective function to be minimized
+    Various constraints related to project selection, incompatibility, and prerequisites
+
+File4.gms - Documentation and Results
+
+This file provides documentation for the project and displays the final results.
+Parameters
+
+    Various parameters related to knowledge width, depth, variability, and importance
+
+Display Statements
+
+    Statements to display key parameters and results
+
+Conclusion
+
+This GAMS project aims to optimize the selection of proposed projects based on knowledge requirements, resource constraints, and time considerations. The files work together to normalize data, formulate an objective function, and display the final results.
