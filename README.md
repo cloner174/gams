@@ -1,7 +1,8 @@
 # gams
 `A Project!`
-
-
+.
+.
+.
 
 In the name of God, Happiness and Health.
 
