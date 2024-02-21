@@ -1,11 +1,9 @@
 # gams
-`A Project!`
-.
-.
-.
 
 In the name of God, Happiness and Health.
 
+`gams`
+`A Project!`
 
 Determining the degree of importance of knowledge in the knowledge space!
 
