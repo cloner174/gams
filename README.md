@@ -1,9 +1,13 @@
-# gams
 In the name of God, Happiness and Health.
+
+
+# gams
+`A Project!`
+
+
 
 Determining the degree of importance of knowledge in the knowledge space!
 
-`A Project!`
 
 This is a simple script of similar intentions for economic projects and large factories based on micro-viewing in determining the right people in each area to reduce costs and increase productivity.
 
